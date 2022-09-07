@@ -16,3 +16,6 @@ Project Report:
 [APPM_4660_Spectral_Methods_Project_Final.pdf](https://github.com/DChoi18/2D-Chebyshev-Spectral-Collocation/files/9503056/APPM_4660_Spectral_Methods_Project_Final.pdf)
 
 
+
+![HeatEQ2D_solutionCompare_Good](https://user-images.githubusercontent.com/45723662/188801120-a307a092-c3f6-4b6a-bb5d-ffd920cc52eb.png)
+
