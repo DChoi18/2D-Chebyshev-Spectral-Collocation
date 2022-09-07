@@ -11,3 +11,8 @@ HeatEq2D - solves 2D heat equation with non-constant thermal conductivity on a s
 
 
 SpectralCollocation_BVP - solves 2D Helmholtz equation with Dirichlet, Robin, and Neumann BCs. 
+
+Project Report:
+[APPM_4660_Spectral_Methods_Project_Final.pdf](https://github.com/DChoi18/2D-Chebyshev-Spectral-Collocation/files/9503056/APPM_4660_Spectral_Methods_Project_Final.pdf)
+
+
